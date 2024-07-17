@@ -10,6 +10,7 @@ Open New Terminal
 Run python manage.py runserver
 
 Tài khoản người dùng 
+
 Username : toan
 
 Pass : 123
